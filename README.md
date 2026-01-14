@@ -1,31 +1,54 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
-<h3 align="center">Software Developer | Passionate Learner 🚀</h3>
 
----
+<h3 align="center">
+2nd-Year Computer Science Student | Junior Game Developer 🎮 | Mobile App Developer 📱 | Graphic Designer 🎨
+</h3>
 
-### 👨‍💻 About Me
-- 💻 Software Developer interested in building real-world applications  
-- 🌱 Currently learning **Web Development & Mobile Apps**
-- 🎯 Goal: Become a professional developer and build impactful projects  
-- ⚡ Fun fact: I learn best by building and breaking things 😄  
-
----
-
-### 🛠️ Skills & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,react,androidstudio" />
+<p align="center">
+Problem Solver • Strategy Thinker • ERlL Team Member
 </p>
 
 ---
 
-### 📌 What I’m Working On
-- 🔹 Personal projects to improve my coding skills  
-- 🔹 Learning **C++ & Problem Solving**
-- 🔹 Exploring **Web & App Development**
+## 👨‍💻 About Me
+- 🎓 2nd-Year **Computer Science** Student  
+- 🎮 **Junior Game Developer** (Unity • Godot • Unreal Engine)  
+- 📱 **Mobile App Developer**  
+- 🎨 **Graphic Designer**  
+- 🧠 Strong **Problem Solving & Strategic Thinking**  
+- 🤝 Active member of **ERlL Team Organizations**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css" />
+</p>
+
+### 🎮 Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
+</p>
+
+### 🎨 Design & 3D
+<p>
+  <img src="https://skillicons.dev/icons?i=blender" />
+</p>
+
+---
+
+## 🧠 Other Skills
+- ✔️ Problem Solving  
+- ✔️ Strategic Thinking  
+- ✔️ Marketing  
+- ✔️ Microsoft Excel  
+- ✔️ Teamwork & Organization Experience  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
@@ -36,16 +59,31 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/mostafa-mahmoud-tohamy-2738173a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.youtube.com/@lord_of_code" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" />
+  </a>
+  <a href="https://www.facebook.com/mostafa.mahmoued.553657/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
   </a>
 </p>
 
 ---
 
-⭐ **Don’t forget to star my repositories if you like them!**
+## 📞 Contact
+📱 **Phone / WhatsApp:** +20 10 22304652
+
+---
+
+⭐ Always learning • Always building • Always leveling up
